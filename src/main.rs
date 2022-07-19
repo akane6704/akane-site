@@ -10,6 +10,7 @@ fn app() -> Html {
             <p>{"I know C, C++, Python and Rust(looking for learning Javascript), I use Garuda Linux, and use Neovim for literally every programming language."}</p>
             <p>{"Also privacy is really important for me, so i take care of it. I have an un-googled android, i use LibreWolf as default browser(the default browser on my phone is TOR), and use proton services(ProtonMail and ProtonDrive, looking for buying a RaspberryPi for creating my own drive with NextCloud)."}</p>
             <p>{"That's it."}</p>
+        // what the hell thats inhumane
         </>
     }
 }
